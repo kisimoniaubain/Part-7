@@ -1,0 +1,85 @@
+{
+  "anecdotes": [
+    {
+      "content": "Premature optimization is the root of all evil",
+      "author": "Donald Knuth",
+      "info": "http://wiki.c2.com/?PrematureOptimization",
+      "url": "http://wiki.c2.com/?PrematureOptimization",
+      "likes": 1,
+      "id": "2"
+    },
+    {
+      "content": "dfdfdfdf",
+      "author": "dfdd",
+      "info": "fdd",
+      "url": "fdd",
+      "likes": 0,
+      "id": "-pKpMsA2QGA",
+      "votes": 1
+    },
+    {
+      "content": "",
+      "author": "",
+      "info": "",
+      "url": "",
+      "likes": 0,
+      "id": "UUF9P51AFkw"
+    },
+    {
+      "content": "",
+      "author": "",
+      "info": "",
+      "url": "",
+      "likes": 0,
+      "id": "vnkbaHDAL8k"
+    },
+    {
+      "content": "",
+      "author": "",
+      "info": "",
+      "url": "",
+      "likes": 0,
+      "id": "Wou-e7cvt3M"
+    },
+    {
+      "content": "fdddf",
+      "author": "dfdfd",
+      "info": "fddf",
+      "url": "fddf",
+      "likes": 0,
+      "id": "ZiIsNp0r990"
+    },
+    {
+      "content": "sf",
+      "author": "fdfd",
+      "info": "fdfd",
+      "url": "fdfd",
+      "likes": 0,
+      "id": "o9tmpf6uCkU"
+    },
+    {
+      "content": "sdsds",
+      "author": "dsd",
+      "info": "sdsd",
+      "url": "sdsd",
+      "likes": 0,
+      "id": "qEcE2awad0k"
+    },
+    {
+      "content": "sds",
+      "author": "dsd",
+      "info": "sdsd",
+      "url": "sdsd",
+      "likes": 0,
+      "id": "2g_sUyUls34"
+    },
+    {
+      "content": "pepe",
+      "author": "pepe",
+      "url": "pepe",
+      "likes": 0,
+      "id": "28mvZ68QHGQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

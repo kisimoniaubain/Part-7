@@ -1,0 +1,10 @@
+{
+  "name": "anecdotes-backend",
+  "version": "1.0.0",
+  "description": "Backend to serve static frontend and api requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --port 3001 --static ../frontend/dist db.json"
+  },
+  "dependencies": {}
+}

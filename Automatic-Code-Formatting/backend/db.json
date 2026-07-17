@@ -1,0 +1,82 @@
+{
+  "anecdotes": [
+    {
+      "content": "If it hurts, do it more often",
+      "author": "Jez Humble",
+      "info": "https://martinfowler.com/bliki/FrequencyReducesDifficulty.html",
+      "votes": 0,
+      "id": "1"
+    },
+    {
+      "content": "Premature optimization is the root of all evil",
+      "author": "Donald Knuth",
+      "info": "http://wiki.c2.com/?PrematureOptimization",
+      "votes": 0,
+      "id": "2"
+    },
+    {
+      "content": "dfdfdfdf",
+      "author": "dfdd",
+      "info": "fdd",
+      "votes": 0,
+      "id": "-pKpMsA2QGA"
+    },
+    {
+      "content": "",
+      "author": "",
+      "info": "",
+      "votes": 0,
+      "id": "UUF9P51AFkw"
+    },
+    {
+      "content": "",
+      "author": "",
+      "info": "",
+      "votes": 0,
+      "id": "vnkbaHDAL8k"
+    },
+    {
+      "content": "",
+      "author": "",
+      "info": "",
+      "votes": 0,
+      "id": "Wou-e7cvt3M"
+    },
+    {
+      "content": "fdddf",
+      "author": "dfdfd",
+      "info": "fddf",
+      "votes": 0,
+      "id": "ZiIsNp0r990"
+    },
+    {
+      "content": "sf",
+      "author": "fdfd",
+      "info": "fdfd",
+      "votes": 0,
+      "id": "o9tmpf6uCkU"
+    },
+    {
+      "content": "sdsds",
+      "author": "dsd",
+      "info": "sdsd",
+      "votes": 0,
+      "id": "qEcE2awad0k"
+    },
+    {
+      "content": "sds",
+      "author": "dsd",
+      "info": "sdsd",
+      "votes": 0,
+      "id": "2g_sUyUls34"
+    },
+    {
+      "content": "kevin",
+      "author": "kevin",
+      "info": "kevin",
+      "votes": 0,
+      "id": "waxvgJc5zaw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

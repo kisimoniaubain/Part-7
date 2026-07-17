@@ -1,0 +1,128 @@
+{
+  "anecdotes": [
+    {
+      "content": "Premature optimization is the root of all evil",
+      "author": "Donald Knuth",
+      "info": "http://wiki.c2.com/?PrematureOptimization",
+      "url": "http://wiki.c2.com/?PrematureOptimization",
+      "likes": 2,
+      "id": "2",
+      "userId": "u1"
+    },
+    {
+      "content": "dfdfdfdf",
+      "author": "dfdd",
+      "info": "fdd",
+      "url": "fdd",
+      "likes": 0,
+      "id": "-pKpMsA2QGA",
+      "votes": 1,
+      "userId": "u2"
+    },
+    {
+      "content": "",
+      "author": "",
+      "info": "",
+      "url": "",
+      "likes": 0,
+      "id": "UUF9P51AFkw",
+      "userId": "u1"
+    },
+    {
+      "content": "",
+      "author": "",
+      "info": "",
+      "url": "",
+      "likes": 0,
+      "id": "vnkbaHDAL8k",
+      "userId": "u1"
+    },
+    {
+      "content": "",
+      "author": "",
+      "info": "",
+      "url": "",
+      "likes": 0,
+      "id": "Wou-e7cvt3M",
+      "userId": "u2"
+    },
+    {
+      "content": "fdddf",
+      "author": "dfdfd",
+      "info": "fddf",
+      "url": "fddf",
+      "likes": 0,
+      "id": "ZiIsNp0r990",
+      "userId": "u2"
+    },
+    {
+      "content": "sf",
+      "author": "fdfd",
+      "info": "fdfd",
+      "url": "fdfd",
+      "likes": 0,
+      "id": "o9tmpf6uCkU",
+      "userId": "u1"
+    },
+    {
+      "content": "sdsds",
+      "author": "dsd",
+      "info": "sdsd",
+      "url": "sdsd",
+      "likes": 0,
+      "id": "qEcE2awad0k",
+      "userId": "u2"
+    },
+    {
+      "content": "sds",
+      "author": "dsd",
+      "info": "sdsd",
+      "url": "sdsd",
+      "likes": 0,
+      "id": "2g_sUyUls34",
+      "userId": "u1"
+    },
+    {
+      "content": "pepe",
+      "author": "pepe",
+      "url": "pepe",
+      "likes": 0,
+      "id": "28mvZ68QHGQ",
+      "userId": "u2"
+    },
+    {
+      "content": "fhghgh",
+      "author": "hgh",
+      "url": "hfhfhf",
+      "likes": 0,
+      "id": "Kz_EQz2Sc5M"
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Sample User",
+      "username": "sample",
+      "anecdotes": [
+        "2",
+        "UUF9P51AFkw",
+        "vnkbaHDAL8k",
+        "o9tmpf6uCkU",
+        "2g_sUyUls34"
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Matti Luukkainen",
+      "username": "mluukkai",
+      "anecdotes": [
+        "-pKpMsA2QGA",
+        "Wou-e7cvt3M",
+        "ZiIsNp0r990",
+        "qEcE2awad0k",
+        "28mvZ68QHGQ"
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
